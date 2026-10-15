@@ -1,0 +1,6 @@
+* 油猴(Tampermonkey)脚本, 导出知乎的一个收藏夹的所有文章到markdown文件
+
+* 如何使用
+- 确保浏览器已安装Tampermonkey插件,
+- 到 [[https://openuserjs.org/scripts/redguardtoo/%E7%9F%A5%E4%B9%8E%E6%94%B6%E8%97%8F%E5%A4%B9%E5%AF%BC%E5%87%BA_Markdown][openuserjs.org]]按 "Install" 
+- 在浏览器中打开某个收藏夹,例如"我的收藏夹", 点击右上"导出本收藏夹"按钮
